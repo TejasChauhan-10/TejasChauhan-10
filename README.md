@@ -93,7 +93,7 @@
 🔹 Generated **conflict-free schedules** for all assigned subjects to optimize resource allocation
 🔹 Built a **CSV-based pipeline** to process input data and integrated a **role-based system** for viewing and approval
 
-🔗 GitHub Repo:
+🔗 GitHub Repo:  
 [Time Table Scheduler](https://github.com/TejasChauhan-10/Automated-Timetable-Generator)
 
 ---
